@@ -1,0 +1,56 @@
+{
+  "leather": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "analcraft:leatherman",
+        "stream": false
+      }
+    ]
+  },
+  "agh": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "analcraft:1gh",
+        "stream": false
+      }
+    ]
+  },
+  "aghh": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "analcraft:2gh",
+        "stream": false
+      }
+    ]
+  },
+  "aaaaaaa": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "analcraft:",
+        "stream": false
+      }
+    ]
+  },
+  "ahr": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "analcraft:hhhrr",
+        "stream": false
+      }
+    ]
+  },
+  "bondage": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "analcraft:ondageayebsite",
+        "stream": false
+      }
+    ]
+  }
+}

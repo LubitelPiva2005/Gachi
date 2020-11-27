@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Blacklether"
+      },
+      {
+        "value": "CUSTOM:Blacklether"
+      },
+      {
+        "value": "CUSTOM:Blacklether"
+      },
+      {
+        "value": "CUSTOM:Blacklether"
+      },
+      {
+        "value": "Items.LEATHER_HELMET"
+      },
+      {
+        "value": "CUSTOM:Blacklether"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Gachi.helmet"
+    },
+    "name": "leathermaskk",
+    "namespace": "mod"
+  }
+}

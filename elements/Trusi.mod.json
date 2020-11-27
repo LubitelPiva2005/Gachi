@@ -1,0 +1,54 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": false,
+    "textureHelmet": "",
+    "enableBody": false,
+    "textureBody": "",
+    "enableLeggings": true,
+    "textureLeggings": "truuusuusaiusus",
+    "enableBoots": false,
+    "textureBoots": "",
+    "onLeggingsTick": {
+      "name": "TrusiLeggingsTickEvent"
+    },
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "trusi",
+    "helmetName": "Trusi Helmet",
+    "bodyName": "Trusi Body",
+    "leggingsName": "Трусы Рикардо Милоса",
+    "bootsName": "Trusi Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Modeltrusiricardo",
+    "leggingsModelPartL": "lefthand",
+    "leggingsModelPartR": "righthand",
+    "leggingsModelTexture": "dsfsd.png",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 25,
+    "damageValueHelmet": 2,
+    "damageValueBody": 6,
+    "damageValueLeggings": 7,
+    "damageValueBoots": 2,
+    "enchantability": 50,
+    "toughness": 2.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Blacklether"
+      }
+    ]
+  }
+}

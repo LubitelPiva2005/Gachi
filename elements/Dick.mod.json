@@ -1,0 +1,48 @@
+{
+  "_fv": 6,
+  "_type": "loottable",
+  "definition": {
+    "type": "Chest",
+    "pools": [
+      {
+        "minrolls": 5,
+        "maxrolls": 9,
+        "minbonusrolls": 1,
+        "maxbonusrolls": 10,
+        "hasbonusrolls": false,
+        "entries": [
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:Semen"
+            },
+            "weight": 15
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:Blacklether"
+            },
+            "weight": 50
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "Items.GOLD_NUGGET"
+            },
+            "weight": 50
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "Items.BREAD"
+            },
+            "weight": 100
+          }
+        ]
+      }
+    ],
+    "name": "chests/dick",
+    "namespace": "minecraft"
+  }
+}

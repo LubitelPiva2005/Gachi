@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Semen"
+      },
+      {
+        "value": "CUSTOM:Semen"
+      },
+      {
+        "value": "CUSTOM:Semen"
+      },
+      {
+        "value": "CUSTOM:Semen"
+      },
+      {
+        "value": "CUSTOM:Gachi.helmet"
+      },
+      {
+        "value": "CUSTOM:Semen"
+      },
+      {
+        "value": "CUSTOM:Semen"
+      },
+      {
+        "value": "CUSTOM:Semen"
+      },
+      {
+        "value": "CUSTOM:Semen"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Spermsrm.helmet"
+    },
+    "name": "spermhelm",
+    "namespace": "mod"
+  }
+}

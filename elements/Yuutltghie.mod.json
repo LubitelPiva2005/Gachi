@@ -1,0 +1,33 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "semen_knut",
+    "customModelName": "Normal",
+    "name": "Плётка в сперме",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.0,
+    "enchantability": 15,
+    "damageVsEntity": 7.0,
+    "usageCount": 200,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Semen"
+      },
+      {
+        "value": "CUSTOM:Blacklether"
+      },
+      {
+        "value": "CUSTOM:Knut"
+      }
+    ]
+  }
+}

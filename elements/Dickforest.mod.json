@@ -1,0 +1,73 @@
+{
+  "_fv": 6,
+  "_type": "biome",
+  "definition": {
+    "name": "Dick Forest",
+    "groundBlock": {
+      "value": "CUSTOM:Spermegrass"
+    },
+    "undergroundBlock": {
+      "value": "Blocks.STONE#0"
+    },
+    "generateLakes": true,
+    "treeType": 0,
+    "vanillaTreeType": "Default",
+    "minHeight": 8,
+    "spawnVines": true,
+    "treeVines": {
+      "value": "Blocks.VINE"
+    },
+    "treeStem": {
+      "value": "Blocks.LOG#0"
+    },
+    "treeBranch": {
+      "value": "CUSTOM:Spermleaves"
+    },
+    "treeFruits": {
+      "value": "Blocks.COCOA"
+    },
+    "customColors": true,
+    "airColor": {
+      "value": -6710785,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -1,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -1,
+      "falpha": 0.0
+    },
+    "treesPerChunk": 0,
+    "grassPerChunk": 0,
+    "flowersPerChunk": 0,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPathcesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "deadBushesPerChunk": 0,
+    "rainingPossibility": 0.5,
+    "temperature": 0.35000000000000003,
+    "baseHeight": 0.1,
+    "heightVariation": 0.07,
+    "spawnBiome": true,
+    "biomeWeight": 1000,
+    "biomeType": "WARM",
+    "biomeCategory": "DESERT",
+    "parent": {
+      "value": "No parent"
+    },
+    "biomeDictionaryTypes": [],
+    "spawnList": [
+      {
+        "value": "CUSTOM:Van"
+      },
+      {
+        "value": "CUSTOM:Semenlime"
+      }
+    ]
+  }
+}

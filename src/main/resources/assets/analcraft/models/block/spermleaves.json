@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "analcraft:blocks/leaves",
+    "up": "analcraft:blocks/leaves",
+    "north": "analcraft:blocks/leaves",
+    "east": "analcraft:blocks/leaves",
+    "south": "analcraft:blocks/leaves",
+    "west": "analcraft:blocks/leaves",
+    "particle": "analcraft:blocks/leaves"
+  }
+}

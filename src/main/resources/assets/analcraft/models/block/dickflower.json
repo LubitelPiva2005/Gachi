@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "analcraft:blocks/dickflow",
+    "particle": "analcraft:blocks/dickflow"
+  }
+}
